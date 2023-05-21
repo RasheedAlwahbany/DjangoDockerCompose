@@ -1,5 +1,9 @@
 # Django Docker Compose
 This is Django project with Docker Compose image
 
-# Run
+# Running the code
+- ```npm install```
+- ```npm start dev```
+
+# Running the Docker
 ```docker-compose up --build```
